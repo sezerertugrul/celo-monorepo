@@ -44,3 +44,4 @@ yarn build --ignore docs
 | [🌐 Website](https://celo.org/) | [🐦 X (Twitter)](https://x.com/Celo) | [💬 Discord](https://discord.com/invite/celo) |
 | [📚 Docs](https://docs.celo.org/) | [📰 Blog](https://blog.celo.org/) | [🗣️ Forum](https://forum.celo.org) |
 | [🎥 YouTube](https://www.youtube.com/channel/UCCZgos_YAJSXm5QX5D5Wkcw/videos?view=0&sort=p&flow=grid) | [👾 Reddit](https://www.reddit.com/r/CeloHQ/) | [💡 GitHub Discussions](https://github.com/celo-org/celo-monorepo/discussions) |
+monorepo
