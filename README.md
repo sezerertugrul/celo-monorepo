@@ -48,3 +48,4 @@ monorepo
 monorepo x
 monorepo 2
 bugün tekrarlandı 1
+*
