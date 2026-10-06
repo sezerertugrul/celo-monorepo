@@ -49,3 +49,4 @@ monorepo x
 monorepo 2
 bugün tekrarlandı 1
 *
+Tekrarlama başarısız yenilenecek
