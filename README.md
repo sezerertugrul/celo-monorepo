@@ -52,3 +52,4 @@ bugün tekrarlandı 1
 Tekrarlama başarısız yenilenecek
 yenileme başladı
 devam ediyor
+tekranlanmada
