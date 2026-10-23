@@ -66,3 +66,4 @@ Tekrarlama3. gün
 kontrolu deneme
 tekrarı Bakıma başlayacağım
 yenileme zamanı
+deneme kontrol
