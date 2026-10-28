@@ -71,3 +71,4 @@ yeni bişeyler ekleme
 son denemeler bitiyor
 bakış kontrolu
 karmaşık yapı deneme
+son çıkış
