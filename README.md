@@ -73,3 +73,4 @@ bakış kontrolu
 karmaşık yapı deneme
 son çıkış
 satır deneme
+karmaşık yapı deneme
