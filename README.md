@@ -91,3 +91,4 @@ kahramalar yanlız olmamalı
 onchain creativity
 ortam oluşturmak
 ortam oluşturmak
+kaynak arayışı
